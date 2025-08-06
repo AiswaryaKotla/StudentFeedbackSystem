@@ -35,6 +35,6 @@ http://localhost:9090/StudentFeedbackSystemFinal
 1.  Install [Apache Tomcat 9+](https://tomcat.apache.org/download-90.cgi)
 2.  Copy this project folder into:  
    `C:\apache-tomcat-9.0.100\webapps\StudentFeedbackSystemFinal`
-3. 🛠 Start the Tomcat server using `startup.bat`
+3.  Start the Tomcat server using `startup.bat`
 4.  Visit: `http://localhost:9090/StudentFeedbackSystemFinal`
 5.  Ensure MySQL is running and your database/tables are properly configured.
